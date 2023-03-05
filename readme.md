@@ -1,4 +1,4 @@
-**[中文](./readme_zh.md)) 💪**
+**[中文](./readme_zh.md) 💪**
 
 <p align="center">
   <a href="https://transitivebullsh.it/nextjs-notion-starter-kit">
