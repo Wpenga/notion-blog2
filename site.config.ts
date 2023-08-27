@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '鹏的小Home',
-  domain: 'no.wpeng.ga',
+  domain: 'no.wpeng.icu',
   author: 'Wpenga',
   
   // open graph metadata (optional)
